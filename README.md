@@ -14,7 +14,7 @@ a little about [geekgarden.id](https://geekgarden.id), this company is engaged i
 * [mylancerkit](http://mylancerkit.com) - Freelance toolkit management **deprecated**
 * and more you can enjoy my repo :wave:
 
-### Organizations
+### Organizations  :frog:
 * Lakasir - Open Source Point Of Sale
 
 ### Contact Me :mailbox:
