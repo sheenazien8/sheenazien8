@@ -1,5 +1,5 @@
 ### Hi there I'm sheena, I'm a PHP programmer. 👋
-🔭 I’m currently working on [Frontline](https:\\frontline-app.com) as a Backend and litle bit to change Frontend, in here i use Laravel and Reactjs.
+I’m currently working on [Frontline](https:\\frontline-app.com) as a Backend and litle bit to change Frontend, in here i use Laravel and Reactjs.
 
 ### More About Me  :blush:
 My name is Sheena Muhammad Ali Zien, I living in Indonesia, Jepara Jawa Tengah. Wathcing anime is my hobbies now
