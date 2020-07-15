@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there I'm sheena, I'm a PHP programmer. 👋
 
+🔭 I’m currently working on [Frontline](https:\\frontline-app.com) as a Backend and litle bit to change Frontend, in here i use Laravel and Reactjs.
+
+### Work experiences 🌱
+* In September 2018, I started working at [geekgarden.id](https://geekgarden.id), here I work as a web programmer, I use laravel and vuejs to handle my work.
+a little about [geekgarden.id](https://geekgarden.id), this company is engaged in consulting it, serving the making of applications and software for various clients. and in September 2019 I decided to resign from [geekgarden.id](https://geekgarden.id)
 <!--
 **sheenazien8/sheenazien8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
