@@ -26,6 +26,10 @@ a little about [geekgarden.id](https://geekgarden.id), this company is engaged i
 ### Contact Me :mailbox:
 * Email: sheenazien08@gmail.com
 * LinkedIn: [Sheena Zien](https://www.linkedin.com/in/sheena-zien-055635156/) 
+
+### Interesting stats
+
+![Alexey's stats](https://github-readme-stats.vercel.app/api?username=sheenazien8&show_icons=true)
 <!--
 **sheenazien8/sheenazien8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
