@@ -3,11 +3,11 @@ I’m currently working on [Frontline](https:\\frontline-app.com) as a Backend a
 
 ### More About Me  :blush:
 My name is Sheena Muhammad Ali Zien, I living in Indonesia, Jepara Jawa Tengah. Wathcing anime is my hobbies now
-
+<!--
 ### Work experiences out of a Programmer :sunny:
 * June 2016, after I graduated from high school, I work at CV.Tipota furniture corporate as a woodworker helper, in here I work only for 4 Month until November 2016.
 * February 2017 I working at PT.KMJ Kanindo Makmur Jaya garment corporate, I working as an operator production in sewing division, and In October 2017 I Out from here.
-* The last job out of a Programmer, I working as a Operator in Delivery Service in JNE November 2017 until March 2018.
+* The last job out of a Programmer, I working as a Operator in Delivery Service in JNE November 2017 until March 2018. -->
 
 ### Work experiences as a Prgrammer 🌱
 * In September 2018, I started working at [geekgarden.id](https://geekgarden.id), in here I work as a web programmer, I use laravel and vuejs to handle my work.
