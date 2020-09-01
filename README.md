@@ -30,6 +30,8 @@ a little about [geekgarden.id](https://geekgarden.id), this company is engaged i
 ### Contact Me :mailbox:
 * Email: sheenazien08@gmail.com
 * LinkedIn: [Sheena Zien](https://www.linkedin.com/in/sheena-zien-055635156/) 
+
+![](https://komarev.com/ghpvc/?username=sheenazien8&color=green)
 <!--
 **sheenazien8/sheenazien8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
