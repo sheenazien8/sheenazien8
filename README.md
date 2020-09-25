@@ -18,8 +18,9 @@ a little about [geekgarden.id](https://geekgarden.id), this company is engaged i
 -->
 
 ### Personal Project :computer:
-* [Wadon.id](http://wadon.id) - Online Shop
-* [kasiertansi](http://kasiertansi.sheenazien.xyz) - POS **deprecated**
+* [Lakasir](https://github.com/lakasir/lakasir) - Point Of Sale built with laravel
+* [User Log Activity](https://github.com/lakasir/user-logging-activity) - Library
+* [Zien Lite Boilerplate](https://github.com/sheenazien8/zien-lite) - Php OOP Boilerplate
 * [mylancerkit](http://mylancerkit.com) - Freelance toolkit management **deprecated**
 * and more you can enjoy my repo :wave:
 <!--
