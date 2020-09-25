@@ -17,7 +17,7 @@ a little about [geekgarden.id](https://geekgarden.id), this company is engaged i
 * In September 2019, after i resign from [geekgarden.id](https://geekgarden.id), i started working at [frontline-app.com](https://frontline-app.com), in [frontline-app.com](https://frontline-app.com) I work remotely.
 
 
-### Personal Project :computer:
+### My Awesome Personal Project :computer:
 * [Lakasir](https://github.com/lakasir/lakasir) - Point Of Sale built with laravel
 * [User Log Activity](https://github.com/lakasir/user-logging-activity) - Laravel Library
 * [Zien Lite Boilerplate](https://github.com/sheenazien8/zien-lite) - Php OOP Boilerplate
