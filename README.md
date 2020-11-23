@@ -20,8 +20,9 @@ a little about [geekgarden.id](https://geekgarden.id), this company is engaged i
 
 ### My Awesome Personal Project :computer:
 * [Lakasir](https://github.com/lakasir/lakasir) - Point Of Sale built with laravel
-* [User Log Activity](https://github.com/lakasir/user-logging-activity) - Laravel Library
+* [User Log Activity](https://github.com/lakasir/user-logging-activity) - User log Laravel Library
 * [Zien Lite Boilerplate](https://github.com/sheenazien8/zien-lite) - Php OOP Boilerplate
+* [Hascrudactions Trait](https://github.com/sheenazien8/hascrudactions) - Laravel Controller CRUD Actions Trait [WIP] Laravel Library
 * [mylancerkit](http://mylancerkit.com) - Freelance toolkit management **deprecated**
 * and more you can enjoy my repo :wave:
 <!--
