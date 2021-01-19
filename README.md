@@ -23,7 +23,6 @@ a little about [geekgarden.id](https://geekgarden.id), this company is engaged i
 * [User Log Activity](https://github.com/lakasir/user-logging-activity) - User log Laravel Library
 * [Zien Lite Boilerplate](https://github.com/sheenazien8/zien-lite) - Php OOP Boilerplate
 * [Hascrudactions Trait](https://github.com/sheenazien8/hascrudactions) - Laravel Controller CRUD Actions Trait [WIP] Laravel Library
-* [mylancerkit](http://mylancerkit.com) - Freelance toolkit management **deprecated**
 * and more you can enjoy my repo :wave:
 <!--
 ### Organizations  :frog:
