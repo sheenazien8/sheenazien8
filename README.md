@@ -1,10 +1,10 @@
 ### Hi there I'm sheena, I'm a PHP programmer. 👋
 Open Source Addict!
 <!--I’m currently working on [Frontline](https:\\frontline-app.com) as a Backend and litle bit to change Frontend, in here i use Laravel and Reactjs.-->
-<!--
+
 ### More About Me  :blush:
-My name is Sheena Muhammad Ali Zien, I living in Indonesia, Jepara Jawa Tengah. Wathcing anime is my hobbies now
--->
+My name is Sheena Muhammad Ali Zien, I living in Indonesia, Jepara Jawa Tengah.
+
 <!--
 ### Work experiences out of a Programmer :sunny:
 * June 2016, after I graduated from high school, I work at CV.Tipota furniture corporate as a woodworker helper, in here I work only for 4 Month until November 2016.
@@ -22,7 +22,8 @@ a little about [geekgarden.id](https://geekgarden.id), this company is engaged i
 * [Zien Lite Boilerplate](https://github.com/sheenazien8/zien-lite) - Php OOP Boilerplate
 * [Hascrudactions Trait](https://github.com/sheenazien8/hascrudactions) - Laravel Controller CRUD Actions Trait Laravel Library
 * [Livewire Components](https://github.com/sheenazien8/livewire-components) - Laravel Livewire Form Components
-* [PHP Invoice](https://github.com/ordgard/php-invoice) - PHP library to Create invoice without styling
+* [PHP Invoice](https://github.com/ordgard/php-invoice) - PHP library to Create invoice without styling [WIP]
+* [Vim nyambung DB](https://github.com/sheenazien8/vim-nyambung-db) - Connect to mysql db without exiting vim 
 * and more you can enjoy my repo :wave:
 <!--
 ### Organizations  :frog:
@@ -31,7 +32,6 @@ a little about [geekgarden.id](https://geekgarden.id), this company is engaged i
 
 ### Contact Me :mailbox:
 * Email: sheenazien08@gmail.com
-* LinkedIn: [Sheena Zien](https://www.linkedin.com/in/sheena-zien-055635156/) 
 
 ![](https://komarev.com/ghpvc/?username=sheenazien8&color=green)
 <!--
