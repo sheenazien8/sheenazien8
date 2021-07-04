@@ -22,6 +22,7 @@ a little about [geekgarden.id](https://geekgarden.id), this company is engaged i
 * [Zien Lite Boilerplate](https://github.com/sheenazien8/zien-lite) - Php OOP Boilerplate
 * [Hascrudactions Trait](https://github.com/sheenazien8/hascrudactions) - Laravel Controller CRUD Actions Trait Laravel Library
 * [Livewire Components](https://github.com/sheenazien8/livewire-components) - Laravel Livewire Form Components
+* [PHP Invoice](https://github.com/ordgard/php-invoice) - PHP library to Create invoice without styling
 * and more you can enjoy my repo :wave:
 <!--
 ### Organizations  :frog:
