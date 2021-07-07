@@ -1,4 +1,4 @@
-### Hi there I'm sheena, I'm a PHP programmer. 👋
+### Hi there I'm sheena, I'm a PHP programmer, VIM enthusiastic. 👋
 Open Source Addict!
 <!--I’m currently working on [Frontline](https:\\frontline-app.com) as a Backend and litle bit to change Frontend, in here i use Laravel and Reactjs.-->
 
