@@ -2,8 +2,8 @@
 Open Source Addict!
 <!--I’m currently working on [Frontline](https:\\frontline-app.com) as a Backend and litle bit to change Frontend, in here i use Laravel and Reactjs.-->
 
-### More About Me  :blush:
-My name is Sheena Muhammad Ali Zien, I living in Indonesia, Jepara Jawa Tengah.
+<!-- ### More About Me  :blush:
+My name is Sheena Muhammad Ali Zien, I living in Indonesia, Jepara Jawa Tengah. -->
 
 <!--
 ### Work experiences out of a Programmer :sunny:
