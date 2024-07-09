@@ -34,8 +34,6 @@ a little about [geekgarden.id](https://geekgarden.id), this company is engaged i
 * Email: sheenazien08@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=sheenazien8&color=green)
-[<img src="https://trakteer.id/images/v2/trakteer-logo.png" alt="drawing" width="100"/>](https://trakteer.id/sheenazien8/tip?quantity=1)
-<a href="https://www.buymeacoffee.com/sheenazien8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <!--
 **sheenazien8/sheenazien8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
