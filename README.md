@@ -24,6 +24,7 @@ a little about [geekgarden.id](https://geekgarden.id), this company is engaged i
 ### My Awesome Personal Project :computer:
 * [Lakasir](https://github.com/lakasir) the free POS app
 * [Simpel Budget](https://simpelbudget.com) the budget app for your cashflow that need simplicty
+* [Goplate](https://github.com/sheenazien8/goplate) the simple boilerplate to start your API project using golang fiber
 * and more you can enjoy my repo :wave:
 <!--
 ### Organizations  :frog:
