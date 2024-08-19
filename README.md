@@ -1,8 +1,10 @@
 # 👋 Hello there, I'm Sheena!.
 
+## 🌞 What I do every day: 
+* Enjoying my free time after being laid off in the march 2024 🏖️
+
 ## 🔭 I’m currently working on a few projects:
 * The Lakasir Free POS app (https://github.com/lakasir)
-* Enjoying my free time after being laid off in the march 2024 🚀
 
 ## 💻 My Awesome Repository:
 * Simpel Budget (https://simpelbudget.com): A budget app for cash flow that requires simplicity
